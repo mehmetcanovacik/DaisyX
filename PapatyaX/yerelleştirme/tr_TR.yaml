@@ -156,7 +156,7 @@ STRINGS:
   pm_menu:
     start_hi_group: 'Selam! Benim adım Heartless'
     start_hi: "Selam! Adım Heartless, grubunuzu verimli bir şekilde yönetmenize yardım ediyorum!"
-    btn_source: "📦 Code source"
+    btn_source: "📦 Code"
     btn_help: "❔ Yardım"
     btn_lang: "🇹🇷 Dil"
     btn_group: "👥 Heartless Grubu"
